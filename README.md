@@ -12,7 +12,7 @@ Libraries
 3. Edit the excel file named `email_details.xlsx`
 * Edit surnames and recipient emails in the `surname_email` sheet
 * Add attachments by adding filenames in the `attachments` sheet
-* If you don't want to include attachments, read the comments in the script for instructions. I'll update this with the necessary changes to fix this bug.
+* If you don't want to include attachments, read the comments in the script for instructions. to be updated
 4. Edit the login details and message
 5. Remember to test the format and details with your own emails first
 6. Run the script
